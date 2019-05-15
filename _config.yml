@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
----
-permalink: /index.html
----
+exclude:
+
+    - README.md
